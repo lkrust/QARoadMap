@@ -4,12 +4,49 @@ The idea of this repo is to help fellow QAs/testers to learn and grow.
 I got the idea of gathering material from this [QA Roadmap](https://miro.com/app/board/o9J_kkqqHXk=/) and from another studying list [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 Feel free to add more information!
 
+
 ## How to use it
 
 <summary>How to use it</summary>
 
 I'm using Github's special markdown flavor, including tasks lists to check progress.
+
+
 **Create a new branch so you can check items like this, just put an x in the brackets: [x]**
+
+<details>
+    
+    Fork a branch and follow the commands below
+
+`git checkout -b progress`
+
+`git remote add jwasham https://github.com/jwasham/coding-interview-university`
+
+`git fetch --all`
+
+    Mark all boxes with X after you completed your changes
+
+`git add .`
+
+`git commit -m "Marked x"`
+
+`git rebase jwasham/master`
+
+`git push --force`
+
+[More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+
+</details>
+
+
+## Don't feel you aren't smart enough
+
+- Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
+- [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+- [Believe you can change](http://www.aaronsw.com/weblog/dweck)
+- [Think you're not smart enough to work at Google? Well, think again](https://www.youtube.com/watch?v=uPOJ1PR50ag)
+
 
 ## Table of Contents
 
