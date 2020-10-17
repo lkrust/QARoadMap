@@ -52,7 +52,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - [ ] Software testing concepts
     - [ ] Based in Requirements
-      - [ ] [Equivalence Partitioning](https://github.com/lkrust/QARoadMap/Based%20in%20requirements/equivalence%20partitioning/README.md)
+      - [ ] [Equivalence Partitioning](https://github.com/lkrust/QARoadMap/tree/main/Software%20Testing%20Concepts/Based%20in%20Requirements)
       - [ ] Boundary value analysis
       - [ ] Decision Table
     - [ ] Experience based testing
