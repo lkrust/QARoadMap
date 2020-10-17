@@ -2,8 +2,8 @@
 
 ## Texts:
 
-      - [ ] [Wikipedia](https://en.wikipedia.org/wiki/Boundary-value_analysis)
-      - [ ] [softwaretestinghelp](https://www.softwaretestinghelp.com/what-is-boundary-value-analysis-and-equivalence-partitioning/)
+- [ ] [Wikipedia](https://en.wikipedia.org/wiki/Boundary-value_analysis)
+- [ ] [softwaretestinghelp](https://www.softwaretestinghelp.com/what-is-boundary-value-analysis-and-equivalence-partitioning/)
 
 
 ## Exercises:
