@@ -59,8 +59,6 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
       - [ ] [Heuristic](https://github.com/lkrust/QARoadMap/tree/main/Software%20Testing%20Concepts/Experience%20based%20testing/Heuristics)
       - [ ] [Exploratory](https://github.com/lkrust/QARoadMap/tree/main/Software%20Testing%20Concepts/Experience%20based%20testing/Exploratory)
       - [ ] [Error Guessing](https://github.com/lkrust/QARoadMap/tree/main/Software%20Testing%20Concepts/Experience%20based%20testing/Error%20guessing)
-    - [ ] Fault-based testing
-      - [ ] Risk
     - [ ] Code-based testing
       - [ ] Structural testing
       - [ ] Static testing
