@@ -60,8 +60,8 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
       - [ ] [Exploratory](https://github.com/lkrust/QARoadMap/tree/main/Software%20Testing%20Concepts/Experience%20based%20testing/Exploratory)
       - [ ] [Error Guessing](https://github.com/lkrust/QARoadMap/tree/main/Software%20Testing%20Concepts/Experience%20based%20testing/Error%20guessing)
     - [ ] Code-based testing
-      - [ ] Structural testing
-      - [ ] Static testing
+      - [ ] [Structural testing](https://github.com/lkrust/QARoadMap/tree/main/Software%20Testing%20Concepts/Code-based%20testing/Structural%20testing)
+      - [ ] [Static testing](https://github.com/lkrust/QARoadMap/tree/main/Software%20Testing%20Concepts/Code-based%20testing/Static%20testing)
     - [ ] Test types
       - [ ] Unit tests
       - [ ] Mutantion tests
