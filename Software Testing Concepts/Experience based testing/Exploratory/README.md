@@ -20,11 +20,11 @@
 
 <Details>
 	<summary>Answer</summary>
-	- It helps the tester quickly identify major discrepancies, thus helping to develop the application to meet actual-world requirements of end users.
-	- It’s cognitively structured compared to the procedural framework of scripted testing.
-	-  It’s an approach and not a technique. The next course of actions is governed by the current course of actions.
-	- It’s significantly teachable and manageable.
-	- Exploratory testing itself is highly useful but when dovetailed with other testing processes, it becomes a powerful way to understand the application in a better manner, build better functional tests and finally enhance the quality of the application.
+<br>- It helps the tester quickly identify major discrepancies, thus helping to develop the application to meet actual-world requirements of end users.
+<br>- It’s cognitively structured compared to the procedural framework of scripted testing.
+<br>-  It’s an approach and not a technique. The next course of actions is governed by the current course of actions.
+<br>- It’s significantly teachable and manageable.
+<br>- Exploratory testing itself is highly useful but when dovetailed with other testing processes, it becomes a powerful way to understand the application in a better manner, build better functional tests and finally enhance the quality of the application.
 </Details>
 
 
