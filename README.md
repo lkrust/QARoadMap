@@ -68,7 +68,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
       - [ ] [Component tests](https://github.com/lkrust/QARoadMap/tree/main/Software%20Testing%20Concepts/Test%20types/Component%20tests)
       - [ ] [Contract tests](https://github.com/lkrust/QARoadMap/tree/main/Software%20Testing%20Concepts/Test%20types/Contract%20tests)
       - [ ] [Integration tests](https://github.com/lkrust/QARoadMap/tree/main/Software%20Testing%20Concepts/Test%20types/Integration%20tests)
-      - [ ] Functional tests
+      - [ ] [Functional tests](https://github.com/lkrust/QARoadMap/tree/main/Software%20Testing%20Concepts/Test%20types/Functional%20tests)
       - [ ] Acceptane tests
       - [ ] E2e tests
       - [ ] Non-functional tests
