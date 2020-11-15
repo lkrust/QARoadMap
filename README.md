@@ -69,9 +69,9 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
       - [ ] [Contract tests](https://github.com/lkrust/QARoadMap/tree/main/Software%20Testing%20Concepts/Test%20types/Contract%20tests)
       - [ ] [Integration tests](https://github.com/lkrust/QARoadMap/tree/main/Software%20Testing%20Concepts/Test%20types/Integration%20tests)
       - [ ] [Functional tests](https://github.com/lkrust/QARoadMap/tree/main/Software%20Testing%20Concepts/Test%20types/Functional%20tests)
-      - [ ] Acceptane tests
-      - [ ] E2e tests
-      - [ ] Non-functional tests
+      - [ ] [Acceptance tests](https://github.com/lkrust/QARoadMap/tree/main/Software%20Testing%20Concepts/Test%20types/Acceptance%20tests)
+      - [ ] [E2e tests](https://github.com/lkrust/QARoadMap/tree/main/Software%20Testing%20Concepts/Test%20types/E2e%20tests)
+      - [ ] [Non-functional tests](https://github.com/lkrust/QARoadMap/tree/main/Software%20Testing%20Concepts/Test%20types/Non-functional%20tests)
     - [ ] Test Strategy
 - [ ] Coding > [Coding Interview University](https://github.com/jwasham/coding-interview-university)
   - [ ] Data types
