@@ -38,12 +38,12 @@
 <Details>
 	<summary>Answer</summary>
 	Obviously, this is also on you. Feel free to search examples, but here are some tips to create your own:
-  - Think on a test scenario. 
-    - How would you test it?
-    - What tools would you use?
-    - Should it be autoamted? How?
-  - Now take your last answers and go for a next scenario
-    - What are you repeating?
-    - What you missed?
-  You use heuristics unconsciously, rationalize it and you will be more efficient.
+  <br>- Think on a test scenario. </br>
+    <br>- How would you test it?</br>
+    <br>- What tools would you use?</br>
+    <br>- Should it be autoamted? How?</br>
+<br>  - Now take your last answers and go for a next scenario</br>
+    <br>- What are you repeating?</br>
+<br>    - What you missed?</br>
+<br>  You use heuristics unconsciously, rationalize it and you will be more efficient.</br>
 </Details>
