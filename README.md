@@ -15,7 +15,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 **Create a new branch so you can check items like this, just put an x in the brackets: [x]**
 
 <details>
-    
+    <summary>Using github</summary>
     Fork a branch and follow the commands below
 
 `git checkout -b progress`
@@ -47,6 +47,10 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - [Believe you can change](http://www.aaronsw.com/weblog/dweck)
 - [Think you're not smart enough to work at Google? Well, think again](https://www.youtube.com/watch?v=uPOJ1PR50ag)
 
+
+## Before we start
+
+Content is all about concepts, so it kinda starts that you have a small knowledge on software development and testing software. Ministry of testing has this awesome material ["30 Things Every New Software Tester Should Learn"](https://www.ministryoftesting.com/dojo/lessons/30-things-every-new-software-tester-should-learn), I strongly recomend you to do it before you start, even if you already know a thing or two on software testing. It kinda take an effort, you don't have to take 30 days to finish, but some 'tasks' will take a while to finish your study.
 
 ## Table of Contents
 
