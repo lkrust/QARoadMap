@@ -56,6 +56,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 ## Before we start
 
 Content is all about concepts, so it kinda starts that you have a small knowledge on software development and testing software. Ministry of testing has this awesome material ["30 Things Every New Software Tester Should Learn"](https://www.ministryoftesting.com/dojo/lessons/30-things-every-new-software-tester-should-learn), I strongly recomend you to do it before you start, even if you already know a thing or two on software testing. It kinda take an effort, you don't have to take 30 days to finish, but some 'tasks' will take a while to finish your study.
+Yes, most of things here are very old and some not even working. But there is a good material there and you can learn a lot from it.
 
 
 ## Table of Contents
